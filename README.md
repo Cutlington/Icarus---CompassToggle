@@ -6,7 +6,7 @@ Turn beacon markers on and off. One key per marker type hides or shows that type
 
 It is visual only. It changes what is drawn on your screen, not any game values, buffs or save data, and it does nothing until you press a key. Nothing is saved, so every launch starts with all markers shown.
 
-**Last tested:** 25 Nov 2026 with Icarus [ICARUS BUILD / DATE] and UE4SS [UE4SS VERSION].
+**Last tested:** 25 Nov 2026 with Icarus and UE4SS.
 
 ## Requirements
 
